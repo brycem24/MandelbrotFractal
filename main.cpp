@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 /*This source code copyrighted by Lazy Foo' Productions (2004-2015)
 and may not be redistributed without written permission.*/
 
+=======
+>>>>>>> aeec4c5a7988bb2b0f8096c183a158427379d060
 //Using SDL and standard IO
 #include <SDL2/SDL.h>
 #include <stdio.h>
